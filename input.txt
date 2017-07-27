@@ -1,0 +1,8 @@
+Let x=0
+Let y=3
+print x
+print y
+x=x+5
+y=yx5
+print x
+print y
